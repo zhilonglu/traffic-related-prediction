@@ -12,3 +12,7 @@ ETA预测
  * [DeepFEC](https://github.com/ElmiSay/DeepFEC)
 
 ## Datasets
+
+
+## Open competitions or challenges
+* [NeurIPS 2021 Traffic4Cast Core Challenge](https://github.com/jbr-ai-labs/traffic4cast-2021)
