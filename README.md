@@ -16,3 +16,6 @@ ETA预测
 
 ## Open competitions or challenges
 * [NeurIPS 2021 Traffic4Cast Core Challenge](https://github.com/jbr-ai-labs/traffic4cast-2021)
+
+## Baselines
+* [Baselines and benchmarks for spatio-temporal forecasting problems in transportation](https://github.com/fmpr/mobility-baselines)
